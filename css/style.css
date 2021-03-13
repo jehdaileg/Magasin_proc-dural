@@ -1,0 +1,79 @@
+
+.margetop 
+{
+	margin-top: 60px;
+}
+
+.center 
+{
+	text-align: left;
+}
+.relative 
+{
+	position: relative;
+}
+
+.section_recherche {  
+	
+	
+	padding: 20px;
+
+	
+
+	position: relative;
+
+	margin-left: 200px;
+
+}	
+
+.section_datas  {
+	padding: 20px;
+
+	position: relative;
+
+	margin-left: 200px;
+}
+
+ .span_edite:hover
+{
+	pointer:cursor;
+	animation-name: rotation;
+	animation-duration: 2s;
+}
+@keyframes rotation
+{
+	0%{transform: rotate(20deg)};
+	100%{transform: rotate(230deg)};
+} 
+
+.span_supprime:hover 
+{
+	pointer: cursor;
+	animation-name: rotation;
+	animation-duration: 2s;
+}
+@keyframes rotation 
+{
+	0%{transform: rotate(20deg)};
+	100%{transform: rotate(230deg)};
+}
+
+/*.section_insert 
+{
+	
+	padding: 20px;
+
+	
+
+	position: relative;
+
+	margin-left: 100px;
+
+}
+*/
+
+
+
+
+
+
